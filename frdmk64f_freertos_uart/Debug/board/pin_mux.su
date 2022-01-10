@@ -1,0 +1,4 @@
+/Users/mmollon/Documents/MCU_workspace/frdmk64f_freertos_uart/drivers/fsl_clock.h:668:20:CLOCK_EnableClock	24	static
+/Users/mmollon/Documents/MCU_workspace/frdmk64f_freertos_uart/drivers/fsl_port.h:374:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:30:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:53:6:BOARD_InitPins	8	static

@@ -1,0 +1,7 @@
+/Users/mmollon/Documents/MCU_workspace/frdmk64f_freertos_uart/drivers/fsl_uart.h:612:20:UART_EnableTx	16	static
+/Users/mmollon/Documents/MCU_workspace/frdmk64f_freertos_uart/drivers/fsl_uart.h:632:20:UART_EnableRx	16	static
+../drivers/freertos/fsl_uart_freertos.c:19:13:UART_RTOS_Callback	40	static
+../drivers/freertos/fsl_uart_freertos.c:71:5:UART_RTOS_Init	48	static
+../drivers/freertos/fsl_uart_freertos.c:185:5:UART_RTOS_Deinit	16	static
+../drivers/freertos/fsl_uart_freertos.c:222:5:UART_RTOS_Send	48	static
+../drivers/freertos/fsl_uart_freertos.c:291:5:UART_RTOS_Receive	56	static
